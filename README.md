@@ -1,1 +1,1 @@
-# LearStation-E-learning-website
+The "E-Learning Website" project was meticulously crafted for educational institutions to provide a dynamic web-based platform developed in HTML, CSS, and JavaScript to revolutionize the overall management of e-learning processes. The primary objective of this project is to offer an efficient digital environment to streamline e-learning initiatives across various educational establishments.
